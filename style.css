@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+
+}
+
+.menu {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 14px;
+    color:aliceblue
+}
+
+header{
+    background-color: #203F68
+}
+h1{
+    color: aliceblue;
+}
+header p{
+    color: rgb(255, 255, 255);
+}
+
+
+.hola{
+    background-color: #5fa8f521;
+    
+}
+
+header, main, footer,section, body,h1, h2, h3{
+    margin:0;
+    padding:0;
+}
