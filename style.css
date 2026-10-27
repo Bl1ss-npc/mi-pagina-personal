@@ -30,8 +30,12 @@ header p{
 .hola{
     background-color: #5fa8f521;
     
+    
+    
 }
-
+.hola h2{
+    border-bottom: 2px solid #203F68;
+}
 header, main, footer,section, body,h1, h2, h3{
     margin:0;
     padding:0;
